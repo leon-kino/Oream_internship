@@ -22,9 +22,12 @@
     "printWidth": 100
   },
   "dependencies": {
+    "@types/react-scroll": "^1.8.3",
     "next": "^12.1.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-scroll": "^1.8.7",
+    "react-share": "^4.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.5",

@@ -1,8 +1,6 @@
 const Home: React.FC = () => (
-  <main className='mx-auto max-w-6xl py-6'>
-    <h1 className='text-lg font-bold text-primary-800'>
-      Welcome to Kikagaku Next.js Starter Kit!!
-    </h1>
+  <main className=''>
+    <h1 className='mx-auto w-8/12 py-16 text-lg font-bold text-black'>Comming Soon ...</h1>
   </main>
 );
 
